@@ -1,0 +1,9 @@
+{
+  "realm": "ncc-dsn-dev1",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "none",
+  "resource": "dsn-app",
+  "public-client": true,
+  "confidential-port": 0,
+  "realmPublicKey" : "d_bNNUVvkyHPCgqgjLII3twElbo-XIrhKuO0vMnp1LY"
+}
